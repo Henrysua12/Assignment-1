@@ -14,3 +14,13 @@ The tools that are installed with this devcontainer are:
 
 # For Students
 If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+
+
+# Project Description 
+
+Name: Vocab Venture
+
+Problem: Learning new languages are difficult and time consuming. 
+Also a lot of the current learning apps while it teaches you new vocabulary it never challenges you to read a paragraph or a full story. (Will have pattern matching and fill in the blank but big focus on reading fuller sentences and stories)
+
+Users: Users who have already tried popular learning apps and want something new 
